@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,45:1d4ed8,100:06b6d4&height=210&section=header&text=Mahendhar%20Sammeta&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=AI%20and%20Full-Stack%20Engineer%20%7C%20agents,%20platforms,%20automation&descSize=17&descAlignY=54&animation=none" width="100%" alt="Mahendhar Sammeta, AI and Full-Stack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,45:1d4ed8,100:06b6d4&height=210&section=header&text=Mahendhar%20Sammeta&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=AI%20and%20Full-Stack%20Engineer%20%7C%20agents,%20platforms,%20automation&descSize=17&descAlignY=54&animation=fadeIn" width="100%" alt="Mahendhar Sammeta, AI and Full-Stack Engineer" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=620&height=45&lines=AI+Agent+Builder;Health-Tech+Platform+Engineer;Automation+%26+Pipeline+Architect;Deterministic+Where+It+Matters" alt="Typing SVG" />
 
 <p>
 <img src="https://img.shields.io/badge/AI%20agents-22d3ee?style=for-the-badge&labelColor=0b1220" alt="AI agents" />
@@ -117,12 +119,25 @@ Row-level security, migrations, typed API contracts, verification gates, and hon
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahisamm/mahisamm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahisamm/mahisamm/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake game animating through my GitHub contribution graph" src="https://raw.githubusercontent.com/mahisamm/mahisamm/output/github-contribution-grid-snake.svg" width="98%" />
+</picture>
+
+<br /><br />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahisamm&theme=tokyonight" width="98%" alt="Profile summary and contributions over the last year" />
 
+<img height="180" src="https://streak-stats.demolab.com/?user=mahisamm&theme=tokyonight&hide_border=true&background=1A1B27&ring=22D3EE&fire=1D4ED8&currStreakLabel=22D3EE" alt="GitHub streak stats" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahisamm&theme=tokyonight" alt="Top languages by repository" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahisamm&theme=tokyonight" alt="Most committed languages" />
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahisamm&theme=tokyonight&utcOffset=5.5" alt="Productive time of day" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahisamm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="98%" alt="GitHub trophies" />
 
 </div>
 
@@ -132,7 +147,7 @@ I like problems where the interesting part is the constraint: a model whose outp
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1d4ed8,100:0b1220&height=140&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1d4ed8,100:0b1220&height=140&section=footer&animation=fadeIn" width="100%" alt="" />
 
 <strong>Open to internships, product engineering roles, and building something useful together.</strong>
 
