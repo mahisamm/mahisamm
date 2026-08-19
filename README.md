@@ -129,15 +129,11 @@ Row-level security, migrations, typed API contracts, verification gates, and hon
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahisamm&theme=tokyonight" width="98%" alt="Profile summary and contributions over the last year" />
 
-<img height="180" src="https://streak-stats.demolab.com/?user=mahisamm&theme=tokyonight&hide_border=true&background=1A1B27&ring=22D3EE&fire=1D4ED8&currStreakLabel=22D3EE" alt="GitHub streak stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahisamm&theme=tokyonight" alt="Top languages by repository" />
+ <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahisamm&theme=tokyonight" alt="Top languages by repository" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahisamm&theme=tokyonight" alt="Most committed languages" />
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahisamm&theme=tokyonight&utcOffset=5.5" alt="Productive time of day" />
 
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahisamm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="98%" alt="GitHub trophies" />
 
 </div>
 
